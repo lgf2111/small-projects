@@ -1,0 +1,13 @@
+Requirements (50 marks):
+    a) Include validation & checks
+       Use given dictionary as inventory
+       Implement code using function headers given
+    
+    b) Manage inventory in vendor menu
+       Implement function to add new drink type in inventory
+       Do not allow existing drink type to be added
+       Implement function to replenish drink
+       Replenish Drink only when quantity is below 5
+       Drink must exist before replenishment
+    
+    c) Enhance code

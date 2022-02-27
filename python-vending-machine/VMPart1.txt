@@ -1,0 +1,13 @@
+Requirements (50 marks):
+    a) Display drink menu & vendor menu
+
+    b) Only valid choices
+       Can choose multiple products
+       Count drink selected
+       Sum the purchases
+    
+    c) If user exit with at least 1 purchase, ask user to input cash
+       Input cash: $10 -> $5 -> $2
+       If sufficient cash just break
+       Return change before exit
+       If insufficient cash, allow user to cancel purchase
